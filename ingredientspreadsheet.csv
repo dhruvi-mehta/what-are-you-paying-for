@@ -1,0 +1,623 @@
+dupe_pair_id,category,brand,product_name,Ingredient,What it does,Key Active,Icky,Goodie,Superstar
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Aqua/Water/Eau,solvent,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Saccharomyces/Camellia Sinensis Leaf/Cladosiphon Okamuranus/Rice Ferment Filtrate*,moisturizer/humectant,0,0,1,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Glycerin,"skin-identical ingredient, moisturizer/humectant",1,0,0,1
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Propanediol,"solvent, moisturizer/humectant",0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Dimethicone,emollient,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Squalane,"skin-identical ingredient, emollient",1,0,1,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Diisostearyl Malate,"emollient, surfactant/cleansing",0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Behenyl Alcohol,"emollient, viscosity controlling",0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Myristyl Myristate,emollient,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Dipentaerythrityl Hexahydroxystearate,"emulsifying, viscosity controlling",0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Bis-Diglyceryl Polyacyladipate-2,emollient,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Tridecyl Trimellitate,emollient,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Chondrus Crispus Extract,"moisturizer/humectant, viscosity controlling",0,0,1,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Betaphycus Gelatinum Extract,skin brightening,1,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Eisenia Arborea Extract,,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Oryza Sativa (Rice) Bran Extract,,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Panax Ginseng Root Extract,"antioxidant, emollient",1,0,1,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Origanum Majorana Leaf Extract,,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Thymus Serpyllum Extract,,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Malva Sylvestris (Mallow) Flower Extract,,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Sodium Hyaluronate,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Inositol,moisturizer/humectant,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Gold,colorant,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Sericin,,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Phytosteryl Macadamiate,"emollient, skin-identical ingredient",1,0,1,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Butylene Glycol,"moisturizer/humectant, solvent",0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Beheneth-20,"emulsifying, surfactant/cleansing",0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Sorbitan Tristearate,emulsifying,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Disodium EDTA,chelating,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Dimethicone/Vinyl Dimethicone Crosspolymer,viscosity controlling,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Sodium Acrylate/Acryloyldimethyltaurate/Dimethylacrylamide Crosspolymer,viscosity controlling,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Caprylyl/Capryl Glucoside,surfactant/cleansing,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Sorbitan Isostearate,emulsifying,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Ethylhexylglycerin,preservative,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Parfum/Fragrance,perfuming,0,1,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Alcohol,"antimicrobial/antibacterial, solvent, viscosity controlling",0,1,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Phenoxyethanol,preservative,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Mica (CI 77019),colorant,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Titanium Dioxide (CI 77891),colorant,0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Tin Oxide (CI 77861),"colorant, abrasive/scrub, viscosity controlling",0,0,0,0
+1,Moisturizer (face),Tatcha,The Dewy Skin Cream,Violet 2 (CI 60725),colorant,0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Water (Aqua),solvent,0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Isohexadecane,"emollient, solvent",0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Stearyl Heptanoate,emollient,0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Glycerin,"skin-identical ingredient, moisturizer/humectant",1,0,0,1
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Butylene Glycol,"moisturizer/humectant, solvent",0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Isopropyl Isostearate,emollient,0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Niacinamide,"cell-communicating ingredient, skin brightening, anti-acne, moisturizer/humectant",1,0,0,1
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Cetearyl Olivate,emulsifying,0,0,1,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Trehalose,moisturizer/humectant,0,0,1,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Squalane,"skin-identical ingredient, emollient",1,0,1,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Dimethicone,emollient,0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Stearic Acid,"emollient, viscosity controlling",0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Aluminum Starch Octenylsuccinate,viscosity controlling,0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Polymethylsilsesquioxane,texture enhancer,0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Silica,viscosity controlling,0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Sodium Hyaluronate,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Palmitoyl Tripeptide-1,cell-communicating ingredient,1,0,1,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Palmitoyl Tetrapeptide-7,cell-communicating ingredient,1,0,1,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Panthenol (Vb5),"soothing, moisturizer/humectant",1,0,1,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Sorbitan Olivate,emulsifying,0,0,1,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Cetearyl Alcohol,"emollient, viscosity controlling, emulsifying, surfactant/cleansing",0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Glyceryl Stearate,"emollient, emulsifying",0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,PEG-100 Stearate,"surfactant/cleansing, emulsifying",0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Polyethylene,viscosity controlling,0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Disodium EDTA,chelating,0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Polyacrylate-13,film-forming,0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Polyisobutene,viscosity controlling,0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Polysorbate 20,"emulsifying, surfactant/cleansing",0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Caprylyl Glycol,"moisturizer/humectant, emollient",0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Phenoxyethanol,preservative,0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Ethylhexylglycerin,preservative,0,0,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Fragrance (Parfum),perfuming,0,1,0,0
+1,Moisturizer (face),e.l.f.,Hello Hydration Face Cream,Carbomer,viscosity controlling,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Water (Aqua),solvent,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Cetyl Alcohol,"emollient, viscosity controlling",0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Cocos Nucifera (Coconut) Oil,"emollient, perfuming",0,0,1,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Caprylic/Capric Triglyceride,emollient,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Glyceryl Stearate SE,emulsifying,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Glycerin,"skin-identical ingredient, moisturizer/humectant",1,0,0,1
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Stearyl Alcohol,"emollient, viscosity controlling, emulsifying, surfactant/cleansing",0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Bertholletia Excelsa Seed (Brazil Nut) Oil,emollient,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Butyrospermum Parkii (Shea) Butter,emollient,0,0,1,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Fragrance,perfuming,0,1,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Polysorbate 20,"emulsifying, surfactant/cleansing",0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Euterpe Oleracea Fruit Extract,,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Dimethicone,emollient,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Phenoxyethanol,preservative,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Carbomer,viscosity controlling,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Ethylhexylglycerin,preservative,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Sodium Hydroxide,buffering,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Sodium Benzoate,preservative,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Paullinia Cupana Seed Extract,,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Potassium Sorbate,preservative,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Maltodextrin,"absorbent/mattifier, emulsion stabilising",0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Disodium EDTA,chelating,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Tocopheryl Acetate,antioxidant,1,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Tocopherol,antioxidant,1,0,1,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Aloe Barbadensis Leaf Extract,"soothing, emollient, moisturizer/humectant",1,0,1,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Althaea Officinalis Root Extract,,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Centella Asiatica Extract,"soothing, antioxidant, moisturizer/humectant",1,0,1,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Chamomilla Recutita (Matricaria) Flower Extract,"soothing, antioxidant",1,0,1,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Citrus Aurantium Dulcis (Orange) Peel Extract,"perfuming, viscosity controlling",0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Citrus Grandis (Grapefruit) Fruit Extract,perfuming,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Citrus Limon (Lemon) Peel Extract,emollient,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Cymbopogon Schoenanthus Leaf/Stem Extract,,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Equisetum Arvense Extract,"soothing, emollient",1,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Humulus Lupulus (Hops) Extract,"soothing, antimicrobial/antibacterial, emollient, perfuming",1,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Rosmarinus Officinalis (Rosemary) Leaf Extract,"antioxidant, soothing, antimicrobial/antibacterial",1,0,1,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Salvia Sclarea (Clary) Extract,soothing,1,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Vaccinium Myrtillus Fruit/Leaf Extract,astringent,0,0,0,0
+2,Moisturizer (body),Trader Joe's,Brazil Nut Body Butter,Yucca Schidigera Leaf/Root/Stem Extract,surfactant/cleansing,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,"Aqua (Water, Eau)",solvent,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Methyl Glucose Sesquistearate,"emollient, emulsifying",0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Phenyl Trimethicone,emollient,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Dodecane,"emollient, perfuming",0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Caprylic/Capric Triglyceride,emollient,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Cetearyl Alcohol,"emollient, viscosity controlling, emulsifying, surfactant/cleansing",0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Parfum (Fragrance),perfuming,0,1,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Glycerin,"skin-identical ingredient, moisturizer/humectant",1,0,0,1
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Cetyl Alcohol,"emollient, viscosity controlling",0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Glyceryl Stearate Citrate,"emollient, emulsifying",0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Sodium Hyaluronate,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Cocos Nucifera (Coconut) Oil,"emollient, perfuming",0,0,1,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Euterpe Oleracea (Açaí) Fruit Oil,,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Theobroma Grandiflorum (Cupuaçu) Seed Butter,,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Bertholletia Excelsa Seed Oil,emollient,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Paullinia Cupana Seed Extract,,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Ilex Guayusa Leaf Extract,,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Ilex Paraguariensis Leaf Extract,perfuming,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Bixa Orellana Seed Extract,,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Daucus Carota Sativa (Carrot) Seed Oil,emollient,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Squalane,"skin-identical ingredient, emollient",1,0,1,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Tocopherol,antioxidant,1,0,1,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Sodium Phytate,chelating,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Sodium Stearoyl Glutamate,"emulsifying, surfactant/cleansing",0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Glyceryl Caprylate,preservative,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Ethylhexylglycerin,preservative,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Xanthan Gum,viscosity controlling,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,viscosity controlling,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Sorbitan Isostearate,emulsifying,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Phenoxyethanol,preservative,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Mica,colorant,0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Benzyl Alcohol,"preservative, perfuming, solvent, viscosity controlling",0,0,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Benzyl Benzoate,"solvent, perfuming, antimicrobial/antibacterial",0,1,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Benzyl Salicylate,perfuming,0,1,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Citral,perfuming,0,1,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Coumarin,perfuming,0,1,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Eugenol,perfuming,0,1,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Butylphenyl Methylpropional,perfuming,0,1,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Limonene,"perfuming, solvent",0,1,0,0
+2,Moisturizer (body),Sol de Janeiro,Brazilian Bum Bum Cream,Linalool,"perfuming, deodorant",0,1,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Algae Extract,"emollient, moisturizer/humectant",0,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Cyclopentasiloxane,"emollient, solvent",0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Petrolatum,emollient,0,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Glyceryl Distearate,emollient,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Phenyl Trimethicone,emollient,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Cyclohexasiloxane,"emollient, solvent",0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Butylene Glycol,"moisturizer/humectant, solvent",0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Cholesterol,"skin-identical ingredient, emollient",1,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Butyrospermum Parkii (Shea) Butter,emollient,0,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Steareth-10,"emulsifying, surfactant/cleansing",0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Dimethicone,emollient,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Glyceryl Stearate SE,emulsifying,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Polysilicone-11,,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Glyceryl Triacetyl Ricinoleate,emollient,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Macadamia Integrifolia Seed Oil,emollient,0,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Glycerin,"skin-identical ingredient, moisturizer/humectant",1,0,0,1
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Sesamum Indicum (Sesame) Seed Oil,emollient,0,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Medicago Sativa Seed Powder,,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Helianthus Annuus (Sunflower) Seedcake,abrasive/scrub,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Prunus Amygdalus Dulcis (Sweet Almond) Seed Meal,abrasive/scrub,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Eucalyptus Globulus (Eucalyptus) Leaf Oil,"perfuming, antimicrobial/antibacterial",0,1,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Sodium Gluconate,"chelating, moisturizer/humectant",0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Copper Gluconate,soothing,1,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Calcium Gluconate,moisturizer/humectant,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Magnesium Gluconate,,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Zinc Gluconate,"anti-acne, soothing",1,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Tocopheryl Succinate,antioxidant,1,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Niacin,,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Sesamum Indicum (Sesame) Seed Powder,,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Water\Aqua\Eau,solvent,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Citrus Aurantifolia (Lime) Peel Extract,"surfactant/cleansing, perfuming",0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Laminaria Digitata Extract,,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Crithmum Maritimum Extract,,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Salicornia Herbacea Extract,"antioxidant, skin brightening, moisturizer/humectant",1,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Plankton Extract,,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Chlorella Vulgaris Extract,,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Rosmarinus Officinalis (Rosemary) Leaf Extract,"antioxidant, soothing, antimicrobial/antibacterial",1,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Sodium Hyaluronate,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Tocopheryl Acetate,antioxidant,1,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Acetyl Hexapeptide-8,"cell-communicating ingredient, moisturizer/humectant",1,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Caffeine,"antioxidant, perfuming",1,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Tetrahexyldecyl Ascorbate,"antioxidant, skin brightening",1,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Palmitoyl Hexapeptide-12,cell-communicating ingredient,1,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Caprylic/Capric Triglyceride,emollient,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Triethylhexanoin,"emollient, perfuming",0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Sodium PCA,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Cetyl Alcohol,"emollient, viscosity controlling",0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Diethylhexyl Succinate,"emollient, solvent",0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Isocetyl Stearoyl Stearate,"emollient, viscosity controlling",0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Cyanocobalamin,,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,C13-14 Isoparaffin,"emollient, viscosity controlling, solvent",0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Distearyldimonium Chloride,,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Dipalmitoyl Hydroxyproline,,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Sucrose,"moisturizer/humectant, soothing",1,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Hydrogenated Vegetable Oil,emollient,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Trehalose,moisturizer/humectant,0,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Hydrolyzed Algin,,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Micrococcus Lysate,,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Sea Salt\Maris Sal\Sel Marin,,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Tetradecyl Aminobutyroylvalylaminobutyric Urea Trifluoroacetate,cell-communicating ingredient,1,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Lactoperoxidase,,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Glucose Oxidase,,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Urea,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Glucose,moisturizer/humectant,0,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Polyacrylamide,viscosity controlling,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Glyceryl Polymethacrylate,viscosity controlling,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,PEG-8,"moisturizer/humectant, solvent",0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Laureth-7,"emulsifying, surfactant/cleansing",0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Lecithin,"emollient, emulsifying",0,0,1,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Triacetin,"antimicrobial/antibacterial, solvent",0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Sodium Chloride,viscosity controlling,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Polyquaternium-51,moisturizer/humectant,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Potassium Phosphate,buffering,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Alcohol Denat,"antimicrobial/antibacterial, solvent, viscosity controlling",0,1,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Fragrance (Parfum),perfuming,0,1,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Limonene,"perfuming, solvent",0,1,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Linalool,"perfuming, deodorant",0,1,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Hydroxycitronellal,perfuming,0,1,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Citronellol,perfuming,0,1,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Geraniol,perfuming,0,1,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,BHT,"antioxidant, preservative",0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Disodium EDTA,chelating,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Sorbic Acid,preservative,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Chlorphenesin,"preservative, antimicrobial/antibacterial",0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Potassium Sorbate,preservative,0,0,0,0
+3,Moisturizer (face),La Mer,The New Moisturizing Soft Cream,Phenoxyethanol,preservative,0,0,0,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Aqua,solvent,0,0,0,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Glycerin,"skin-identical ingredient, moisturizer/humectant",1,0,0,1
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Cetearyl Alcohol,"emollient, viscosity controlling, emulsifying, surfactant/cleansing",0,0,0,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Caprylic/Capric Triglyceride,emollient,0,0,0,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Cetyl Alcohol,"emollient, viscosity controlling",0,0,0,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Ceteareth-20,"emulsifying, surfactant/cleansing",0,0,0,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Ceramide NP,skin-identical ingredient,1,0,1,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Ceramide AP,skin-identical ingredient,1,0,1,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Ceramide EOP,skin-identical ingredient,1,0,1,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Phytosphingosine,"skin-identical ingredient, cell-communicating ingredient, anti-acne, antimicrobial/antibacterial",1,0,1,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Cholesterol,"skin-identical ingredient, emollient",1,0,1,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Hyaluronic Acid,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Sodium Lauroyl Lactylate,emulsifying,0,0,0,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Dimethicone,emollient,0,0,0,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Petrolatum,emollient,0,0,1,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Behentrimonium Methosulfate,surfactant/cleansing,0,0,0,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Potassium Phosphate,buffering,0,0,0,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Dipotassium Phosphate,buffering,0,0,0,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Phenoxyethanol,preservative,0,0,0,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Methylparaben,preservative,0,0,0,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Propylparaben,"preservative, perfuming",0,0,0,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Disodium EDTA,chelating,0,0,0,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Carbomer,viscosity controlling,0,0,0,0
+3,Moisturizer (face),CeraVe,Moisturizing Cream,Xanthan Gum,viscosity controlling,0,0,0,0
+4,Essence,SK-II,Facial Treatment Essence,Galactomyces Ferment Filtrate,moisturizer/humectant,1,0,1,0
+4,Essence,SK-II,Facial Treatment Essence,Butylene Glycol,"moisturizer/humectant, solvent",0,0,0,0
+4,Essence,SK-II,Facial Treatment Essence,Pentylene Glycol,"solvent, moisturizer/humectant",0,0,0,0
+4,Essence,SK-II,Facial Treatment Essence,Water,solvent,0,0,0,0
+4,Essence,SK-II,Facial Treatment Essence,Sodium Benzoate,preservative,0,0,0,0
+4,Essence,SK-II,Facial Treatment Essence,Methylparaben,preservative,0,0,0,0
+4,Essence,SK-II,Facial Treatment Essence,Sorbic Acid,preservative,0,0,0,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Saccharomyces Ferment Filtrate,"soothing, moisturizer/humectant",1,0,1,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Bifida Ferment Lysate,,0,0,1,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Propanediol,"solvent, moisturizer/humectant",0,0,0,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Niacinamide,"cell-communicating ingredient, skin brightening, anti-acne, moisturizer/humectant",1,0,0,1
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Polyquaternium-51,moisturizer/humectant,0,0,0,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Amaranthus Caudatus Seed Extract,emollient,0,0,1,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Betaine,moisturizer/humectant,0,0,1,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Ulmus Davidiana Root Extract,moisturizer/humectant,0,0,1,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Pentylene Glycol,"solvent, moisturizer/humectant",0,0,0,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Piper Methysticum Leaf/Root/Stem Extract,,0,1,0,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Water,solvent,0,0,0,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Trehalose,moisturizer/humectant,0,0,1,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Hydrogenated Lecithin,"emollient, emulsifying",0,0,1,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Hydrolyzed Corn Starch,"moisturizer/humectant, viscosity controlling",0,0,0,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Phenoxyethanol,preservative,0,0,0,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Beta Vulgaris (Beet) Root Extract,"antioxidant, moisturizer/humectant",1,0,1,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Phellodendron Amurense Bark Extract,"soothing, anti-acne",1,0,1,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Cassia Alata Leaf Extract,"soothing, antimicrobial/antibacterial",1,0,1,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Disodium Edta,chelating,0,0,0,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Adenosine,cell-communicating ingredient,1,0,1,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Ethylhexylglycerin,preservative,0,0,0,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Butylene Glycol,"moisturizer/humectant, solvent",0,0,0,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Glycerin,"skin-identical ingredient, moisturizer/humectant",1,0,0,1
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Raffinose,moisturizer/humectant,0,0,1,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Tromethamine,buffering,0,0,0,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Acetic Acid,buffering,0,0,0,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Lactic Acid,"exfoliant, moisturizer/humectant, buffering",1,0,0,1
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Disodium Edta,chelating,0,0,0,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,"1,2-Hexanediol",solvent,0,0,0,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Caprylyl Glycol,"moisturizer/humectant, emollient",0,0,0,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Sodium Hyaluronate,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Potassium Sorbate,preservative,0,0,0,0
+4,Essence,Missha,Time Revolution First Treatment Essence Intensive,Hexapeptide-9,cell-communicating ingredient,1,0,1,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Aqua/Water/Eau,solvent,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,C12-15 Alkyl Benzoate,"emollient, antimicrobial/antibacterial",0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Glyceryl Stearate SE,emulsifying,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Butylene Glycol,"moisturizer/humectant, solvent",0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Glycerin,"skin-identical ingredient, moisturizer/humectant",1,0,0,1
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Olus Oil/Vegetable Oil/Huile Végétale,emollient,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Isononyl Isononanoate,emollient,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Cetyl Alcohol,"emollient, viscosity controlling",0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Ethylhexyl Palmitate,emollient,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Cyclopentasiloxane,"emollient, solvent",0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Dimethicone,emollient,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Polyester-7,viscosity controlling,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Phenoxyethanol,preservative,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Neopentyl Glycol Diheptanoate,emollient,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Butyrospermum Parkii (Shea) Butter,emollient,0,0,1,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Steareth-21,"emulsifying, surfactant/cleansing",0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Avena Sativa (Oat) Kernel Extract,"antioxidant, soothing, emollient",1,0,1,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Carbomer,viscosity controlling,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Dimethiconol,"emollient, moisturizer/humectant",0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Potassium Cetyl Phosphate,"emulsifying, surfactant/cleansing",0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Chlorphenesin,"preservative, antimicrobial/antibacterial",0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Caprylyl Glycol,"moisturizer/humectant, emollient",0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Xanthan Gum,viscosity controlling,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Hydrolyzed Viola Tricolor Extract,,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Allantoin,soothing,1,0,1,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Aloe Barbadensis Leaf Juice,"soothing, moisturizer/humectant",1,0,1,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Disodium EDTA,chelating,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Tocopheryl Acetate,antioxidant,1,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Camellia Oleifera Seed Oil,emollient,0,0,1,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Rosa Canina Fruit Oil,emollient,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Rosa Damascena Extract,,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Sodium Hydroxide,buffering,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Helianthus Annuus (Sunflower) Seed Oil,emollient,0,0,1,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Michelia Alba Leaf Oil,,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Sodium Lactate,"buffering, moisturizer/humectant",0,0,1,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Coco-Glucoside,surfactant/cleansing,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,PEG-8,"moisturizer/humectant, solvent",0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Ethylhexylglycerin,preservative,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Sodium Hyaluronate,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Tocopherol,antioxidant,1,0,1,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Palmitoyl Tetrapeptide-7,cell-communicating ingredient,1,0,1,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Palmitoyl Tripeptide-1,cell-communicating ingredient,1,0,1,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Ascorbyl Palmitate,antioxidant,0,1,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Plumeria Rubra Flower Extract,,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Ascorbic Acid,"antioxidant, skin brightening, buffering",1,0,0,1
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Citric Acid,buffering,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Nicotiana Sylvestris Leaf Cell Culture,,0,0,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Linalool,"perfuming, deodorant",0,1,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Citronellol,perfuming,0,1,0,0
+5,Moisturizer (face),Charlotte Tilbury,Magic Cream,Geraniol,perfuming,0,1,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Water,solvent,0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Glycerin,"skin-identical ingredient, moisturizer/humectant",1,0,0,1
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Isohexadecane,"emollient, solvent",0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Niacinamide (Vitamin B3),"cell-communicating ingredient, skin brightening, anti-acne, moisturizer/humectant",1,0,0,1
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Isopropyl Isostearate,emollient,0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Aluminum Starch Octenylsuccinate,viscosity controlling,0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Nylon-12,viscosity controlling,0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Dimethicone,emollient,0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Panthenol (Pro-Vitamin B5),"soothing, moisturizer/humectant",1,0,1,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Tocopheryl Acetate (Vitamin E),antioxidant,1,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Sodium Hyaluronate,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Palmitoyl Pentapeptide-4 (Amino-Peptide),cell-communicating ingredient,1,0,1,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Camellia Sinensis Leaf Extract (Green Tea),"antioxidant, soothing",1,0,1,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Aloe Barbadensis Leaf Juice (Aloe Vera),"soothing, moisturizer/humectant",1,0,1,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Allantoin,soothing,1,0,1,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Stearyl Alcohol,"emollient, viscosity controlling, emulsifying, surfactant/cleansing",0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Polyethylene,viscosity controlling,0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Cetyl Alcohol,"emollient, viscosity controlling",0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Sodium Acrylates Copolymer,viscosity controlling,0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Behenyl Alcohol,"emollient, viscosity controlling",0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Benzyl Alcohol,"preservative, perfuming, solvent, viscosity controlling",0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Acrylamide/Sodium Acryloyldimethyltaurate Copolymer,viscosity controlling,0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Dimethiconol,"emollient, moisturizer/humectant",0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Sodium Peg-7 Olive Oil Carboxylate,emulsifying,0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Peucedanum Graveolens (Dill) Extract,,0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Peg-100 Stearate,"surfactant/cleansing, emulsifying",0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Stearic Acid,"emollient, viscosity controlling",0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Disodium Edta,chelating,0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Cetearyl Glucoside,"emulsifying, surfactant/cleansing",0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Cetearyl Alcohol,"emollient, viscosity controlling, emulsifying, surfactant/cleansing",0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Citric Acid,buffering,0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,C12-13 Pareth-3,"emulsifying, surfactant/cleansing",0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Laureth-7,"emulsifying, surfactant/cleansing",0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,C13-14 Isoparaffin,"emollient, viscosity controlling, solvent",0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Sodium Hydroxide,buffering,0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Caprylic/Capric Triglyceride,emollient,0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Ethylparaben,preservative,0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Methylparaben,preservative,0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Propylparaben,"preservative, perfuming",0,0,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Fragrance,perfuming,0,1,0,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Titanium Dioxide,"sunscreen, colorant",1,0,1,0
+5,Moisturizer (face),Olay,Regenerist Micro-Sculpting Cream,Mica,colorant,0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Aqua/Water/Eau,solvent,0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Dimethicone,emollient,0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Hydrogenated Polyisobutene,"emollient, viscosity controlling",0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Glycerin,"skin-identical ingredient, moisturizer/humectant",1,0,0,1
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Cholesterol,"skin-identical ingredient, emollient",1,0,1,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,C12-15 Alkyl Benzoate,"emollient, antimicrobial/antibacterial",0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Ceramide 3,skin-identical ingredient,1,0,1,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Helianthus Annuus Seed Oil Unsaponifiables/Sunflower Seed Oil Unsaponifiables,"soothing, skin-identical ingredient, emollient",1,0,1,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Bis-Peg-18 Methyl Ether Dimethyl Silane,"emollient, moisturizer/humectant, surfactant/cleansing",0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Sodium Polyacrylate,viscosity controlling,0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Peg-10 Dimethicone,emulsifying,0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Nylon-12,viscosity controlling,0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Lauryl Peg-9 Polydimethylsiloxyethyl Dimethicone,"emulsifying, surfactant/cleansing",0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Dimethicone/Peg-10/15 Crosspolymer,emulsifying,0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Phenoxyethanol,preservative,0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Disteardimonium Hectorite,viscosity controlling,0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Hydroxyethylpiperazine Ethane Sulfonic Acid,buffering,0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Ammonium Polyacryloyldimethyl Taurate,viscosity controlling,0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Chlorphenesin,"preservative, antimicrobial/antibacterial",0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Caprylyl Glycol,"moisturizer/humectant, emollient",0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Peg/Ppg-18/18 Dimethicone,emulsifying,0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Propylene Carbonate,"solvent, viscosity controlling",0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Disodium Edta,chelating,0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer,,0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Adenosine,cell-communicating ingredient,1,0,1,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Dipropylene Glycol,solvent,0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Lavandula Angustifolia Oil/Lavender Oil,"antimicrobial/antibacterial, perfuming",0,1,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Rosmarinus Officinalis Leaf Oil/Rosemary Leaf Oil,"antioxidant, antimicrobial/antibacterial",1,1,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,T-Butyl Alcohol,"perfuming, solvent",0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Mentha Piperita Oil/Peppermint Oil,perfuming,0,1,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Sodium Citrate,"chelating, buffering",0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Linalool,"perfuming, deodorant",0,1,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Isobutane,,0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Ceramide Eop,skin-identical ingredient,1,0,1,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Bht,"antioxidant, preservative",0,0,0,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Tocopherol,antioxidant,1,0,1,0
+6,Moisturizer (face),SkinCeuticals,Triple Lipid Restore,Limonene,"perfuming, solvent",0,1,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Aqua (Water),solvent,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Caprylic/Capric Triglyceride,emollient,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Cetyl Ethylhexanoate,emollient,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Isodecyl Neopentanoate,emollient,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Glycerin,"skin-identical ingredient, moisturizer/humectant",1,0,0,1
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Propanediol,"solvent, moisturizer/humectant",0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Polyglyceryl-6 Polyricinoleate,emulsifying,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Hydrogenated Vegetable Oil,emollient,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Polyglyceryl-2 Isostearate,emulsifying,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Isosorbide Dicaprylate,"cell-communicating ingredient, moisturizer/humectant",1,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Disteardimonium Hectorite,viscosity controlling,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Phytosteryl Canola Glycerides,,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Glycosphingolipids,emollient,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Glycolipids,,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Linoleic Acid,"skin-identical ingredient, emollient, surfactant/cleansing",1,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Oleic Acid,"emollient, emulsifying",0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Palmitic Acid,"skin-identical ingredient, emollient, emulsifying",0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Stearic Acid,"emollient, viscosity controlling",0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Arginine,skin-identical ingredient,1,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Glycine,skin-identical ingredient,1,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Alanine,skin-identical ingredient,1,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Serine,skin-identical ingredient,1,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Proline,skin-identical ingredient,1,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Threonine,skin-identical ingredient,1,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Glutamic Acid,moisturizer/humectant,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Lysine Hcl,,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Betaine,moisturizer/humectant,0,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Xylitylglucoside,moisturizer/humectant,0,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Anhydroxylitol,moisturizer/humectant,0,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Xylitol,moisturizer/humectant,0,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Glucose,moisturizer/humectant,0,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Maltose,moisturizer/humectant,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Fructose,moisturizer/humectant,0,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Trehalose,moisturizer/humectant,0,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Sodium PCA,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Pca,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Sodium Lactate,"buffering, moisturizer/humectant",0,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Urea,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Allantoin,soothing,1,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Sodium Hyaluronate,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Lecithin,"emollient, emulsifying",0,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Triolein,emollient,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Dimethyl Isosorbide,"solvent, viscosity controlling",0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Pentylene Glycol,"solvent, moisturizer/humectant",0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Tocopherol,antioxidant,1,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Hydroxymethoxyphenyl Decanone,"antioxidant, soothing",1,0,1,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Citric Acid,buffering,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Trisodium Ethylenediamine Disuccinate,chelating,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Magnesium Sulfate,viscosity controlling,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Sodium Chloride,viscosity controlling,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Sodium Hydroxide,buffering,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Phenoxyethanol,preservative,0,0,0,0
+6,Moisturizer (face),The Ordinary,Natural Moisturizing Factors + Phytoceramides,Chlorphenesin,"preservative, antimicrobial/antibacterial",0,0,0,0
+7,Serum,SkinCeuticals,C E Ferulic,Water,solvent,0,0,0,0
+7,Serum,SkinCeuticals,C E Ferulic,Ethoxydiglycol,"solvent, moisturizer/humectant, perfuming",0,0,0,0
+7,Serum,SkinCeuticals,C E Ferulic,L Ascorbic Acid,"antioxidant, skin brightening, buffering",1,0,0,1
+7,Serum,SkinCeuticals,C E Ferulic,Propylene Glycol,"moisturizer/humectant, solvent",0,0,0,0
+7,Serum,SkinCeuticals,C E Ferulic,Glycerin,"skin-identical ingredient, moisturizer/humectant",1,0,0,1
+7,Serum,SkinCeuticals,C E Ferulic,Laureth 23,"emulsifying, surfactant/cleansing",0,0,0,0
+7,Serum,SkinCeuticals,C E Ferulic,Alpha Tocopherol,antioxidant,1,0,1,0
+7,Serum,SkinCeuticals,C E Ferulic,Phenoxyethanol,preservative,0,0,0,0
+7,Serum,SkinCeuticals,C E Ferulic,Triethanolamine,buffering,0,0,0,0
+7,Serum,SkinCeuticals,C E Ferulic,Ferulic Acid,"antioxidant, antimicrobial/antibacterial",1,0,1,0
+7,Serum,SkinCeuticals,C E Ferulic,Panthenol,"soothing, moisturizer/humectant",1,0,1,0
+7,Serum,SkinCeuticals,C E Ferulic,Sodium Hyaluronate,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+7,Serum,SkinCeuticals,C E Ferulic,Water,solvent,0,0,0,0
+7,Serum,SkinCeuticals,C E Ferulic,Ethoxydiglycol,"solvent, moisturizer/humectant, perfuming",0,0,0,0
+7,Serum,SkinCeuticals,C E Ferulic,L Ascorbic Acid,"antioxidant, skin brightening, buffering",1,0,0,1
+7,Serum,SkinCeuticals,C E Ferulic,Propylene Glycol,"moisturizer/humectant, solvent",0,0,0,0
+7,Serum,SkinCeuticals,C E Ferulic,Glycerin,"skin-identical ingredient, moisturizer/humectant",1,0,0,1
+7,Serum,SkinCeuticals,C E Ferulic,Laureth 23,"emulsifying, surfactant/cleansing",0,0,0,0
+7,Serum,SkinCeuticals,C E Ferulic,Alpha Tocopherol,antioxidant,1,0,1,0
+7,Serum,SkinCeuticals,C E Ferulic,Phenoxyethanol,preservative,0,0,0,0
+7,Serum,SkinCeuticals,C E Ferulic,Triethanolamine,buffering,0,0,0,0
+7,Serum,SkinCeuticals,C E Ferulic,Ferulic Acid,"antioxidant, antimicrobial/antibacterial",1,0,1,0
+7,Serum,SkinCeuticals,C E Ferulic,Panthenol,"soothing, moisturizer/humectant",1,0,1,0
+7,Serum,SkinCeuticals,C E Ferulic,Sodium Hyaluronate,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Water,solvent,0,0,0,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Aloe,"soothing, moisturizer/humectant",1,0,1,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Gotu Kola,"soothing, antioxidant, moisturizer/humectant",1,0,1,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Equisetum Arvense (Horsetail),"soothing, emollient",1,0,0,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Dandelion,,0,0,0,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Geranium,perfuming,0,1,0,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Vitamin C (Sodium Ascorbyl Phosphate),"antioxidant, skin brightening, buffering",1,0,0,1
+7,Serum,TruSkin,Vitamin C Super Serum+,Botanical Hyaluronic Acid,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Organic Rosehip Seed Oil,emollient,0,0,1,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Dimethyl Sulfone (Msm),,0,0,0,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Retinol,cell-communicating ingredient,1,0,0,1
+7,Serum,TruSkin,Vitamin C Super Serum+,Squalane (Olive Oil),"skin-identical ingredient, emollient",1,0,1,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Niacinamide (Vitamin B3),"cell-communicating ingredient, skin brightening, anti-acne, moisturizer/humectant",1,0,0,1
+7,Serum,TruSkin,Vitamin C Super Serum+,(25)-2-Amino-5-Guanidinopentanoic Acid,skin-identical ingredient,1,0,1,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Salicylic Acid,"exfoliant, anti-acne, soothing, preservative",1,0,0,1
+7,Serum,TruSkin,Vitamin C Super Serum+,"Essential Oils (Pink Grapefruit, Lavender, Ylang Ylang)",perfuming,0,1,0,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Organic Aloe,"soothing, moisturizer/humectant",0,0,1,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Organic Gotu Kola,"soothing, antioxidant, moisturizer/humectant",0,0,1,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Wildcrafted Horsetail Extract,"soothing, emollient",0,0,0,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Wildcrafted Dandelion,,0,0,0,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Wildcrafted Geranium Extract,,0,0,0,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Carbomer,viscosity controlling,0,0,0,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Phenoxyethanol,preservative,0,0,0,0
+7,Serum,TruSkin,Vitamin C Super Serum+,Ethyl Hexyl Glycerine,preservative,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Water (Aqua),solvent,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Sodium Citrate,"chelating, buffering",0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Glycerin,"skin-identical ingredient, moisturizer/humectant",1,0,0,1
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Sd Alcohol 40-B (Alcohol Denat.),"solvent, viscosity controlling",0,1,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Caprylic/Capric/Succinic Triglyceride,"emollient, emulsifying",0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Propylheptyl Caprylate,emollient,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Undecane,emollient,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Alcohol,"antimicrobial/antibacterial, solvent, viscosity controlling",0,1,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Glycoproteins*,,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Panax Ginseng Root Extract*,"antioxidant, emollient",1,0,1,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Equisetum Arvense Extract*,"soothing, emollient",1,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Caviar Extract,,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Caviar Oil,,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Pullulan,,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Sodium Hyaluronate,"skin-identical ingredient, moisturizer/humectant",1,0,1,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Lactobacillus Ferment,soothing,1,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Avena Sativa (Oat) Kernel Extract,"antioxidant, soothing, emollient",1,0,1,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Caulerpa Lentillifera Extract,,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Acmella Oleracea Extract,,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Paeonia Albiflora Root Extract,,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Saccharomyces Cerevisiae Extract,,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Sodium Dna,,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Rna,,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Hydrolyzed Rice Bran Protein,,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Palmitoyl Tripeptide-1,cell-communicating ingredient,1,0,1,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Palmitoyl Tetrapeptide-7,cell-communicating ingredient,1,0,1,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Tetrapeptide-3,,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Ceramide NP,skin-identical ingredient,1,0,1,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Tocopherol,antioxidant,1,0,1,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Helianthus Annuus (Sunflower) Seed Oil,emollient,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Caprylic/Capric Triglyceride,emollient,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Glycine Soja (Soybean) Oil,emollient,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Pentylene Glycol,"solvent, moisturizer/humectant",0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Propanediol,"solvent, moisturizer/humectant",0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Butylene Glycol,"moisturizer/humectant, solvent",0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Propylene Glycol,"moisturizer/humectant, solvent",0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Silica,viscosity controlling,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Dimethicone,emollient,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Tridecane,"emollient, solvent",0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Arachidyl Alcohol,"emollient, viscosity controlling",0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Sodium Stearoyl Glutamate,"emulsifying, surfactant/cleansing",0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Behenyl Alcohol,"emollient, viscosity controlling",0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Xanthan Gum,viscosity controlling,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Arachidyl Glucoside,emulsifying,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Hydroxyethylcellulose,viscosity controlling,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Dimethicone Crosspolymer,emulsifying,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Polysilicone-11,,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Carrageenan,viscosity controlling,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Polyglyceryl-10 Stearate,emulsifying,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Algin,viscosity controlling,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Sodium Lactate,"buffering, moisturizer/humectant",0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Mica (CI 77019),colorant,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Carbomer,viscosity controlling,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Coco-Glucoside,surfactant/cleansing,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Hydrogenated Lecithin,"emollient, emulsifying",0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Sucrose Stearate,emulsifying,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Alcaligenes Polysaccharides,,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Glycine,skin-identical ingredient,1,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Polysorbate 80,"emulsifying, surfactant/cleansing",0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Synthetic Fluorphlogopite,colorant,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Sodium Lauryl Sulfate,surfactant/cleansing,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Sodium Oleate,"emulsifying, surfactant/cleansing",0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Tin Oxide,colorant,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Ethylhexylglycerin,preservative,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Sodium Hydroxide,buffering,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Hydroxyethylpiperazine Ethane Sulfonic Acid,buffering,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Disodium EDTA,chelating,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Fragrance (Parfum),perfuming,0,1,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Linalool,perfuming,0,1,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Benzyl Salicylate,perfuming,0,1,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Citronellol,perfuming,0,1,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Geraniol,perfuming,0,1,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Alpha-Isomethyl Ionone,perfuming,0,1,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Limonene,"perfuming, solvent",0,1,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Phenoxyethanol,preservative,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Phenethyl Alcohol,"preservative, perfuming",0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Sodium Dehydroacetate,preservative,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Titanium Dioxide (CI 77891),colorant,0,0,0,0
+8,Serum,La Prairie,Skin Caviar Liquid Lift,Iron Oxides (CI 77491),colorant,0,0,0,0
+8,Serum,The Ordinary,Argireline Solution 10%,Aqua (Water),solvent,0,0,0,0
+8,Serum,The Ordinary,Argireline Solution 10%,Propanediol,"solvent, moisturizer/humectant",0,0,0,0
+8,Serum,The Ordinary,Argireline Solution 10%,Acetyl Hexapeptide-8,"cell-communicating ingredient, moisturizer/humectant",1,0,1,0
+8,Serum,The Ordinary,Argireline Solution 10%,Trisodium Ethylenediamine Disuccinate,chelating,0,0,0,0
+8,Serum,The Ordinary,Argireline Solution 10%,Gellan Gum,viscosity controlling,0,0,0,0
+8,Serum,The Ordinary,Argireline Solution 10%,Sodium Chloride,viscosity controlling,0,0,0,0
+8,Serum,The Ordinary,Argireline Solution 10%,Isoceteth-20,"emulsifying, surfactant/cleansing",0,0,0,0
+8,Serum,The Ordinary,Argireline Solution 10%,Dimethyl Isosorbide,"solvent, viscosity controlling",0,0,0,0
+8,Serum,The Ordinary,Argireline Solution 10%,Potassium Sorbate,preservative,0,0,0,0
+8,Serum,The Ordinary,Argireline Solution 10%,Phenoxyethanol,preservative,0,0,0,0
+8,Serum,The Ordinary,Argireline Solution 10%,Chlorphenesin,"preservative, antimicrobial/antibacterial",0,0,0,0

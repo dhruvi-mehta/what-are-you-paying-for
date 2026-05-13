@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Formulation — About</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    /* ── 2-column grid ───────────────────────────────────────────────────── */
+    .about-wrap {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 60px 40px 100px;
+      align-items: start;
+    }
+    .about-col-left  { padding-right: 48px; border-right: 0.5px solid rgba(20,20,20,0.08); }
+    .about-col-right { padding-left: 48px; }
+
+    /* ── Section spacing ─────────────────────────────────────────────────── */
+    .about-section { margin-bottom: 56px; }
+
+    /* ── Typography ──────────────────────────────────────────────────────── */
+    .about-eyebrow {
+      font-size: 10px; font-weight: 400; letter-spacing: 0.16em;
+      text-transform: uppercase; color: rgba(20,20,20,0.52); margin-bottom: 10px;
+    }
+    .about-heading {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(22px, 2.8vw, 32px); font-weight: 300; font-style: italic;
+      line-height: 1.15; letter-spacing: -0.01em; color: #1a1a1a; margin-bottom: 16px;
+    }
+    .about-subheading {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 16px; font-weight: 400; font-style: italic;
+      color: #1a1a1a; margin: 28px 0 8px;
+    }
+    .about-body {
+      font-size: 14.5px; font-weight: 400; color: rgba(20,20,20,0.82); line-height: 1.85; margin-bottom: 14px;
+    }
+    .about-body b { color: #1a1a1a; font-weight: 600; }
+
+    /* ── Formula blocks ──────────────────────────────────────────────────── */
+    .formula {
+      background: rgba(255,255,255,0.75);
+      border: 0.5px solid rgba(20,20,20,0.10);
+      border-radius: 10px; padding: 18px 20px;
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 14px; font-style: italic;
+      color: rgba(20,20,20,0.85); line-height: 2.2; margin: 12px 0;
+    }
+    .formula .frac {
+      display: inline-flex; flex-direction: column;
+      align-items: center; vertical-align: middle; margin: 0 3px;
+    }
+    .formula .frac .num { border-bottom: 1px solid rgba(20,20,20,0.40); padding: 0 3px 2px; font-size: 13px; }
+    .formula .frac .den { padding: 2px 3px 0; font-size: 13px; }
+
+    /* ── Tables ──────────────────────────────────────────────────────────── */
+    .about-table {
+      width: 100%; border-collapse: collapse; font-size: 12px; margin: 12px 0 20px;
+    }
+    .about-table th {
+      font-size: 9px; font-weight: 500; letter-spacing: 0.10em;
+      text-transform: uppercase; color: rgba(20,20,20,0.38);
+      border-bottom: 0.5px solid rgba(20,20,20,0.12);
+      padding: 7px 10px; text-align: left;
+    }
+    .about-table td {
+      padding: 9px 10px; border-bottom: 0.5px solid rgba(20,20,20,0.06);
+      color: rgba(20,20,20,0.75); vertical-align: top; line-height: 1.50;
+    }
+    .about-table td:first-child { font-weight: 600; color: #1a1a1a; }
+    .about-table tr:last-child td { border-bottom: none; }
+    .cat-cell { display: flex; align-items: center; gap: 7px; }
+    .cat-dot  { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+
+    /* ── Callout ─────────────────────────────────────────────────────────── */
+    .callout {
+      background: rgba(255,255,255,0.55);
+      border: 0.5px solid rgba(20,20,20,0.08);
+      border-left: 2.5px solid rgba(20,20,20,0.16);
+      border-radius: 0 8px 8px 0;
+      padding: 13px 16px; margin: 14px 0;
+      font-size: 13px; color: rgba(20,20,20,0.72); line-height: 1.70;
+    }
+    .callout b { color: #1a1a1a; }
+
+    /* ── Grade rows (reuse from existing CSS, override sizes) ────────────── */
+    .grade-rows { display: flex; flex-direction: column; margin: 12px 0; }
+    .grade-row  { display: flex; align-items: center; gap: 12px; padding: 9px 0; border-bottom: 0.5px solid rgba(20,20,20,0.06); }
+    .grade-row:last-child { border-bottom: none; }
+    .gpill { width: 26px; height: 26px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; flex-shrink: 0; }
+    .grade-range { font-size: 11px; color: rgba(20,20,20,0.58); min-width: 62px; }
+    .grade-desc  { font-size: 12px; color: rgba(20,20,20,0.72); }
+
+    /* ── Ingredient rows ─────────────────────────────────────────────────── */
+    .ing-rows { display: flex; flex-direction: column; }
+    .ing-row  { display: flex; align-items: flex-start; gap: 11px; padding: 11px 0; border-bottom: 0.5px solid rgba(20,20,20,0.06); }
+    .ing-row:last-child { border-bottom: none; }
+    .ing-dot  { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; margin-top: 4px; }
+    .ing-name { font-size: 12px; font-weight: 600; color: #1a1a1a; margin-bottom: 3px; letter-spacing: 0.02em; }
+    .ing-desc { font-size: 12px; color: rgba(20,20,20,0.68); line-height: 1.55; }
+
+    /* ── Responsive: stack on mobile ─────────────────────────────────────── */
+    @media (max-width: 768px) {
+      .about-wrap { grid-template-columns: 1fr; padding: 40px 20px 80px; }
+      .about-col-left  { padding-right: 0; border-right: none; border-bottom: 0.5px solid rgba(20,20,20,0.08); padding-bottom: 48px; margin-bottom: 48px; }
+      .about-col-right { padding-left: 0; }
+      .about-table { font-size: 11px; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <div class="nav-logo">FORMULATION</div>
+    <div class="nav-links">
+      <a href="index.html" class="nav-link">HOME</a>
+      <a href="compare.html" class="nav-link">COMPARE</a>
+      <a href="about.html" class="nav-link active">ABOUT</a>
+    </div>
+  </nav>
+
+  <div class="about-wrap">
+
+    <!-- ═══════════════════ LEFT COLUMN ═══════════════════ -->
+    <div class="about-col-left">
+
+      <!-- The Project -->
+      <div class="about-section">
+        <p class="about-eyebrow">The Project</p>
+        <h2 class="about-heading">Ingredient transparency<br>and dupe culture</h2>
+        <p class="about-body">This project examines whether higher prices correspond to more complex formulations or whether consumers are primarily paying for brand prestige. Every product is scored using the same two-part methodology: an <b>Ingredient Quality Score</b> that evaluates the formula itself, and a <b>Price Fairness Multiplier</b> that asks whether the cost is justified.
+        <br>Using a custom-built dataset and generative visualization techniques, skincare formulations will be translated into organic, petri-dish-inspired digital ecosystems where ingredients function as particles within compositional systems. The final outcome aims to merge data analysis with immersive editorial-style visualization.</p>
+        </div>
+
+      <!-- IQS -->
+      <div class="about-section">
+        <p class="about-eyebrow">Ingredient Quality Score — IQS</p>
+        <h2 class="about-heading">Formulation quality,<br>independent of price</h2>
+        <p class="about-body">The IQS captures what is actually in the formula. It rewards beneficial ingredients, penalises harmful ones, and normalises for list length so longer formulas are not automatically rewarded.</p>
+
+        <p class="about-subheading">Base Formula</p>
+        <div class="formula">
+          IQS &nbsp;=&nbsp;
+          <span class="frac">
+            <span class="num">(superstars × 3) + (goodies × 1) − (icky<sub>weighted</sub> × 2)</span>
+            <span class="den">ingredient count</span>
+          </span>
+          &nbsp;× 100
+        </div>
+        <div class="callout">
+          Dividing by ingredient count <b>normalises for formulation size</b> — a product is not rewarded simply for having a long list.
+        </div>
+      </div>
+
+      <!-- Icky Position Weighting -->
+      <div class="about-section">
+        <p class="about-eyebrow">Icky Ingredient Position Weighting</p>
+        <h2 class="about-heading">Where an ingredient appears<br>matters as much as what it is</h2>
+        <p class="about-body">Cosmetic ingredient lists are legally required to be ordered by <b>descending concentration</b>. An icky ingredient near the top of the list is far more concerning than one buried near the bottom.</p>
+
+        <p class="about-subheading">Base Position Weight</p>
+        <div class="formula">
+          weight &nbsp;=&nbsp; 1 −
+          <span class="frac">
+            <span class="num">position index</span>
+            <span class="den">ingredient count</span>
+          </span>
+        </div>
+        <p class="about-body">Position 5 of 40 → <b>0.875</b> (heavy). Position 38 of 40 → <b>0.05</b> (near negligible).</p>
+
+        <p class="about-subheading">The 1% Rule &amp; Floor of 0.25</p>
+        <p class="about-body">Regulations allow ingredients at ≤1% to be listed in any order. Without a floor, icky ingredients listed late would receive near-zero penalties — even though their presence at any concentration still carries risk for sensitive skin.</p>
+        <div class="formula">
+          weight &nbsp;=&nbsp;
+          max<span style="font-style:normal">(</span>&thinsp;1 −
+          <span class="frac">
+            <span class="num">position index</span>
+            <span class="den">ingredient count</span>
+          </span>
+          &thinsp;,&ensp;0.25&thinsp;<span style="font-style:normal">)</span>
+        </div>
+        <p class="about-body"><b>0.25</b> ensures any icky ingredient carries at least a quarter of the concern of a prominently listed one — high enough to matter, low enough to still reward products that bury them late.</p>
+
+        <p class="about-subheading">Final Weighted Sum</p>
+        <div class="formula">
+          icky<sub>weighted</sub> &nbsp;=&nbsp; Σ &thinsp;
+          max<span style="font-style:normal">(</span>&thinsp;1 −
+          <span class="frac">
+            <span class="num">position index</span>
+            <span class="den">ingredient count</span>
+          </span>
+          &thinsp;,&ensp;0.25&thinsp;<span style="font-style:normal">)</span>
+        </div>
+      </div>
+
+      <!-- PFM -->
+      <div class="about-section">
+        <p class="about-eyebrow">Price Fairness Multiplier — PFM</p>
+        <h2 class="about-heading">Rewarding value,<br>penalising prestige pricing</h2>
+        <p class="about-body">The PFM adjusts the final score based on price per ml. A great formula at a budget price is rewarded. A poor formula at a luxury price is penalised. Accessible-tier products are unaffected.</p>
+
+        <p class="about-subheading">PFM Formula</p>
+        <div class="formula">
+          IQS<sub>norm</sub> &nbsp;=&nbsp;
+          <span class="frac">
+            <span class="num">IQS − IQS<sub>min</sub></span>
+            <span class="den">IQS<sub>max</sub> − IQS<sub>min</sub></span>
+          </span>
+          &nbsp;× 2 − 1
+          <br><br>
+          PFM &nbsp;=&nbsp; 1 + ( IQS<sub>norm</sub> × price sensitivity )
+        </div>
+        <p class="about-body">IQS<sub>norm</sub> rescales each product to a <b>−1 to +1 range</b> across the full dataset, so every product is judged relative to the others.</p>
+      </div>
+
+    </div><!-- /left -->
+
+    <!-- ═══════════════════ RIGHT COLUMN ══════════════════ -->
+    <div class="about-col-right">
+
+      <!-- Ingredient Weights table -->
+      <div class="about-section">
+        <p class="about-eyebrow">Ingredient Weights</p>
+        <table class="about-table">
+          <thead>
+            <tr><th>Rating</th><th>Weight</th><th>Rationale</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><span class="cat-cell"><span class="cat-dot" style="background:#FF10F0"></span>Superstar</span></td>
+              <td>× 3</td>
+              <td>Rare, high-impact actives — strongest positive signal in a formula.</td>
+            </tr>
+            <tr>
+              <td><span class="cat-cell"><span class="cat-dot" style="background:#39FF14"></span>Goodie</span></td>
+              <td>× 1</td>
+              <td>Beneficial ingredients — positive but baseline contribution.</td>
+            </tr>
+            <tr>
+              <td><span class="cat-cell"><span class="cat-dot" style="background:#FF0000"></span>Icky</span></td>
+              <td>× 2</td>
+              <td>Harmful or questionable — penalised harder than goodies are rewarded, scaled by position.</td>
+            </tr>
+            <tr>
+              <td><span class="cat-cell"><span class="cat-dot" style="background:#89CFF0"></span>Neutral</span></td>
+              <td>× 0</td>
+              <td>Functional base ingredients — no meaningful positive or negative signal.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!-- Position weight example table -->
+      <div class="about-section">
+        <p class="about-eyebrow">Position Weighting — Example (40 ingredients)</p>
+        <table class="about-table">
+          <thead>
+            <tr><th>Position</th><th>Raw weight</th><th>With floor</th><th>Notes</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>3</td><td>0.925</td><td>0.925</td><td>Heavy penalty</td></tr>
+            <tr><td>10</td><td>0.750</td><td>0.750</td><td>Significant</td></tr>
+            <tr><td>20</td><td>0.500</td><td>0.500</td><td>Moderate</td></tr>
+            <tr><td>30</td><td>0.250</td><td>0.250</td><td>Floor reached</td></tr>
+            <tr><td>35</td><td>0.125</td><td>0.250</td><td>Floor kicks in</td></tr>
+            <tr><td>38</td><td>0.050</td><td>0.250</td><td>Floor kicks in</td></tr>
+            <tr><td>39</td><td>0.025</td><td>0.250</td><td>Floor kicks in</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!-- Price tiers table -->
+      <div class="about-section">
+        <p class="about-eyebrow">Price Tiers</p>
+        <table class="about-table">
+          <thead>
+            <tr><th>Price / ml</th><th>Tier</th><th>Sensitivity</th><th>Label</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>≤ $0.20</td><td>Budget</td><td>+0.15</td><td>Very Affordable</td></tr>
+            <tr><td>$0.21 – $0.60</td><td>Mid-range</td><td>0.00</td><td>Accessible</td></tr>
+            <tr><td>$0.61 – $1.50</td><td>Premium</td><td>−0.20</td><td>Elevated</td></tr>
+            <tr><td>&gt; $1.50</td><td>Luxury</td><td>−0.35</td><td>High-End</td></tr>
+          </tbody>
+        </table>
+
+        <!-- PFM scenarios -->
+        <p class="about-eyebrow" style="margin-top:28px">PFM Scenarios</p>
+        <table class="about-table">
+          <thead>
+            <tr><th>IQS</th><th>Price</th><th>Result</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>High</td><td>Budget</td><td>PFM &gt; 1 — rewarded</td></tr>
+            <tr><td>Low</td><td>Luxury</td><td>PFM &lt; 1 — penalised</td></tr>
+            <tr><td>High</td><td>Luxury</td><td>PFM ≈ 0.72 — neutral</td></tr>
+            <tr><td>Low</td><td>Budget</td><td>PFM ≈ 0.88 — forgiving</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!-- Final Score -->
+      <div class="about-section">
+        <p class="about-eyebrow">Final Score</p>
+        <h2 class="about-heading">Putting it all together</h2>
+        <div class="formula">
+          Final Score &nbsp;=&nbsp; IQS &nbsp;×&nbsp; PFM
+        </div>
+        <p class="about-body">Final scores are <b>normalised to 0 – 100</b> across the dataset. Grade bands reflect relative performance, not an absolute standard.</p>
+      </div>
+
+      <!-- Grade Bands -->
+      <div class="about-section">
+        <p class="about-eyebrow">Grade Bands</p>
+        <div class="grade-rows">
+          <div class="grade-row">
+            <span class="gpill" style="background:#c4b5fd;color:#1e1b4b">S</span>
+            <span class="grade-range">80 – 100</span>
+            <span class="grade-desc">Pristine, perfectly symmetrical, luminous</span>
+          </div>
+          <div class="grade-row">
+            <span class="gpill" style="background:#6ee7b7;color:#064e3b">A</span>
+            <span class="grade-range">60 – 79</span>
+            <span class="grade-desc">Clean, smooth, organic edges, soft glow</span>
+          </div>
+          <div class="grade-row">
+            <span class="gpill" style="background:#bef264;color:#1a2e05">B</span>
+            <span class="grade-range">40 – 59</span>
+            <span class="grade-desc">Soft irregularities, slightly uneven, muted glow</span>
+          </div>
+          <div class="grade-row">
+            <span class="gpill" style="background:#fcd34d;color:#451a03">C</span>
+            <span class="grade-range">20 – 39</span>
+            <span class="grade-desc">Asymmetric, dull colouring, visible distortion</span>
+          </div>
+          <div class="grade-row">
+            <span class="gpill" style="background:#fca5a5;color:#450a0a">D</span>
+            <span class="grade-range">0 – 19</span>
+            <span class="grade-desc">Distorted, spiky, toxic/chaotic — poison-like</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ingredient Categories -->
+      <div class="about-section">
+        <p class="about-eyebrow">Ingredient Categories</p>
+        <div class="ing-rows">
+          <div class="ing-row">
+            <div class="ing-dot" style="background:#FF10F0"></div>
+            <div><p class="ing-name">Superstar</p><p class="ing-desc">Rare, high-impact actives. The strongest positive signal in a formula. Weighted ×3.</p></div>
+          </div>
+          <div class="ing-row">
+            <div class="ing-dot" style="background:#39FF14"></div>
+            <div><p class="ing-name">Goodie</p><p class="ing-desc">Beneficial ingredients with a positive but baseline contribution. Weighted ×1.</p></div>
+          </div>
+          <div class="ing-row">
+            <div class="ing-dot" style="background:#FF0000"></div>
+            <div><p class="ing-name">Icky</p><p class="ing-desc">Harmful or questionable. Penalised harder than goodies are rewarded, scaled by position. Weighted ×2.</p></div>
+          </div>
+          <div class="ing-row">
+            <div class="ing-dot" style="background:#89CFF0"></div>
+            <div><p class="ing-name">Neutral</p><p class="ing-desc">Functional base ingredients with no meaningful positive or negative signal. No score impact.</p></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Data Source -->
+      <div class="about-section">
+        <p class="about-eyebrow">Data Source</p>
+        <p class="about-body">Ingredient lists and ratings sourced from <b><a href="https://incidecoder.com/">Inci-Decoder</a></b>. Classifications mapped to a custom superstar / goodie / icky / neutral system. All scoring calculated manually.</p>
+      </div>
+
+    </div><!-- /right -->
+
+  </div><!-- /about-wrap -->
+
+</body>
+</html>

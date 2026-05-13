@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Formulation — Compare</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ─── NAV ──────────────────────────────────────────────────────────────── -->
+  <nav>
+    <div class="nav-logo">FORMULATION</div>
+    <div class="nav-links">
+      <a href="index.html" class="nav-link">HOME</a>
+      <a href="compare.html" class="nav-link active">COMPARE</a>
+      <a href="about.html" class="nav-link">ABOUT</a>
+    </div>
+  </nav>
+
+  <!-- ─── LEGEND (moved to top) ────────────────────────────────────────────── -->
+    <div class="legend">
+    <div class="leg"><div class="dot" style="background:#FF10F0"></div>superstar</div>
+    <div class="leg"><div class="dot" style="background:#39FF14"></div>goodie</div>
+    <div class="leg"><div class="dot" style="background:#FF0000"></div>icky</div>
+    <div class="leg"><div class="dot" style="background:#89CFF0"></div>neutral</div>
+  </div>
+  
+  
+  <!-- <div class="legend">
+    <div class="leg"><div class="dot" style="background:#2B6761"></div>superstar</div>
+    <div class="leg"><div class="dot" style="background:#F74800"></div>goodie</div>
+    <div class="leg"><div class="dot" style="background:#690A14"></div>icky</div>
+    <div class="leg"><div class="dot" style="background:#366ED0"></div>neutral</div>
+  </div> -->
+
+  <!-- ─── PAIR SELECTOR ────────────────────────────────────────────────────── -->
+  <div id="controls"></div>
+
+  <!-- ─── MAIN STAGE ───────────────────────────────────────────────────────── -->
+  <div id="stage">
+
+    <div class="panel">
+      <canvas id="cl"></canvas>
+      <div class="info" id="il"></div>
+    </div>
+
+    <div class="vdivider"></div>
+
+    <div class="panel">
+      <canvas id="cr"></canvas>
+      <div class="info" id="ir"></div>
+    </div>
+
+  </div>
+
+  <!-- ─── ANALYSIS SECTION ─────────────────────────────────────────────────── -->
+  <div id="analysis">
+
+    <!-- Stacked bar chart — full width -->
+    <div class="analysis-chart-wrap">
+      <p class="analysis-eyebrow">INGREDIENT BREAKDOWN</p>
+      <p class="analysis-sub">How each formula is composed by ingredient type</p>
+      <div class="chart-container">
+        <canvas id="stackedBar"></canvas>
+      </div>
+    </div>
+
+    <div class="hdivider"></div>
+
+    <!-- Highlight cards — icky / superstar / goodie -->
+    <div class="ingredient-highlights" id="ingredient-highlights"></div>
+
+  </div>
+
+  <!-- ─── BLOOM SHADERS ────────────────────────────────────────────────────── -->
+  <script type="x-shader/x-vertex" id="vertexshader">
+    varying vec2 vUv;
+    void main() {
+      vUv = uv;
+      gl_Position = projectionMatrix * modelViewMatrix * vec4( position, 1.0 );
+    }
+  </script>
+  <script type="x-shader/x-fragment" id="fragmentshader">
+    uniform sampler2D baseTexture;
+    uniform sampler2D bloomTexture;
+    uniform float bloomStrength;
+    varying vec2 vUv;
+    void main() {
+      gl_FragColor = ( texture2D( baseTexture, vUv ) + texture2D( bloomTexture, vUv ) * bloomStrength );
+    }
+  </script>
+
+  <!-- ─── DEPENDENCIES ─────────────────────────────────────────────────────── -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://unpkg.com/three@0.158.0/build/three.module.js",
+        "three/addons/": "https://unpkg.com/three@0.158.0/examples/jsm/"
+      }
+    }
+  </script>
+  <script type="module" src="script.js"></script>
+
+</body>
+</html>
