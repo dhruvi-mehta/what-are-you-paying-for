@@ -409,4 +409,6 @@ canvas { display: block; width: 100% !important; }
 
     @media (max-width: 640px) {
       .about-page { padding: 40px 20px 80px; }
-      .about-table { font-size: 12
+      .about-table { font-size: 12px; }
+      .about-table th, .about-table td { padding: 8px 8px; }
+    }
