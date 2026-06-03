@@ -166,4 +166,4 @@ Then open `http://localhost:5500` in your browser.
 
 ## License
 
-This project is for educational and portfolio purposes. Product names and brand names are trademarks of their respective owners. Ingredient data sourced from INCIDecoder under fair use for non-commercial analysis.
+This project is for educational and portfolio purposes. Product names and brand names are trademarks of their respective owners. Ingredient data sourced from INCIDecoder under fair use for non-co
