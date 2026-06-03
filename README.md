@@ -1,5 +1,5 @@
 # Formulation
-> Beyond the Label*
+> Beyond the Label
 
 > *What the Label Won't Tell You?*
 
