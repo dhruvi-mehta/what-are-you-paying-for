@@ -1,17 +1,18 @@
 /* ─── RESET ───────────────────────────────────────────────────────────────── */
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&display=swap');
-
+/* @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&display=swap'); */
+@import url('https://use.typekit.net/tmv3byi.css');
 /* ─── BASE ────────────────────────────────────────────────────────────────── */
 body {
   background: #f5f0ee;
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: "redaction", sans-serif;
+  font-weight: 400;
+  font-style: normal;
   color: #1a1a1a;
   overflow-x: hidden;
   min-height: 100vh;
 }
-
 /* ─── NAV ─────────────────────────────────────────────────────────────────── */
 nav {
   display: flex;

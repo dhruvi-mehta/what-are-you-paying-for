@@ -1,6 +1,7 @@
 # Formulation
+> Beyond the Label*
 
-> *What are you really paying for?*
+> *What the Label Won't Tell You?*
 
 Formulation is an interactive data visualisation that decodes skincare ingredient lists and asks whether the price tag is justified. It scores each product using a custom two-part methodology, then renders the result as a living, rotating 3D visualisation — the better the formula, the more structured and luminous the sphere; the worse, the more chaotic and distorted.
 
